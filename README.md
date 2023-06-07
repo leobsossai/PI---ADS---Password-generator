@@ -1,6 +1,6 @@
 # PI - ADS - Password Generator
 
-![Password Generator Screenshot](screenshot.png)
+![Password Generator Screenshot](/home/ls/Pictures/password-generator.png)
 
 This project is a university assignment for the course "Analysis and Software Development (ADS)" where we have developed a password generator web application using PHP, JavaScript, HTML, and CSS. The application generates secure and random passwords based on user-specified criteria.
 
