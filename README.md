@@ -19,3 +19,24 @@ This project is a university assignment for the course "Analysis and Software De
 - JavaScript
 - HTML
 - CSS
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# PI - ADS - Gerador de Senhas
+
+Este projeto é uma tarefa universitária para o curso "Análise e Desenvolvimento de Software (ADS)", onde desenvolvemos uma aplicação web geradora de senhas utilizando PHP, JavaScript, HTML e CSS. A aplicação gera senhas seguras e aleatórias com base nos critérios especificados pelo usuário.
+
+## Recursos
+
+- Gera senhas seguras com base nos critérios selecionados pelo usuário.
+- Permite aos usuários especificarem o comprimento da senha.
+- Gera senhas randômicas com o comprimento.
+- Fornece uma interface de fácil utilização ao usuário.
+- Valida a entrada do usuário para garantir uma seleção de comprimento adequado.
+- Utiliza JavaScript do lado do cliente para geração dinâmica de senhas.
+
+## Tecnologias Utilizadas
+- PHP
+- JavaScript
+- HTML
+- CSS
